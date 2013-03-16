@@ -18,12 +18,10 @@
 
 #include <s3eTypes.h>
 
-/*
- * Enum to represent the sensor delay. Values are represented in updates per second.
- *
- */
-
-
+ /*
+  * Enum to represent the sensor delay. Values are represented in updates per second.
+  *
+  */
 typedef enum s3eGyroscopeSensorDelay
 {
 	DELAY_FASTEST = 0,	///get sensor data as fast as possible
@@ -36,6 +34,11 @@ typedef enum s3eGyroscopeSensorDelay
 
 }s3eGyroscopeSensorDelay;
 
+
+
+ /*
+  * Gyroscope specific error codes.
+  */
 typedef enum s3eGyroscopeResult
 {
 	S3E_GYROSCOPE_RESULT_OK=0,
@@ -47,15 +50,15 @@ typedef enum s3eGyroscopeResult
 	S3E_GYROSCOPE_NOT_RUNNING=3,
 
 	S3E_GYROSCOPE_UNKNOWN_ERROR=4	
-	
 
 }s3eGyroscopeResult;
 
 
-/*
- *	Rotation values in Radians around the x, y, z axes. Rotation is positive in the counter-clockwise direction.
- *
- */
+
+ /*
+  *	Rotation values in Radians around the x, y, z axes. Rotation is positive in the counter-clockwise direction.
+  *
+  */
 typedef struct s3eGyroscopeData
 {
     float m_X; 
@@ -68,10 +71,9 @@ typedef struct s3eGyroscopeData
 
 
 
-/*
- * Calback definition for data updates.
- */
-
+ /*
+  * Calback definition for data updates.
+  */
 typedef enum s3eGyroscopeCallback
 {
     S3E_GYROSCOPE_CALLBACK_DATA_UPDATE =  0,
@@ -119,10 +121,6 @@ s3eResult s3eGyroscopeRegister(s3eGyroscopeCallback cbid, s3eCallback fn, void* 
  */
 s3eResult s3eGyroscopeUnRegister(s3eGyroscopeCallback cbid, s3eCallback fn);
 
-/*
- * The s3eGyroscopeStart function start the gyroscope sensor and sets the update frequency to its default value.
- *
- */
 s3eGyroscopeResult s3eGyroscopeStart();
 
 s3eGyroscopeResult s3eGyroscopeSetSensorDelay( s3eGyroscopeSensorDelay delay );

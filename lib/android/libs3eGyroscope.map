@@ -1,6 +1,6 @@
 Archive member included because of file (symbol)
 
-C:\Marmalade\6.2\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+C:\marmalade\6.2\s3e\edk\lib\android\libedk.a(edk_helpers.o)
                               release\s3eGyroscope_platform.os (s3eEdkThreadRunOnOS)
 c:/android-ndk-r8b/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(unwind-arm.o)
                               C:/android-ndk-r8b/platforms/android-9/arch-arm/usr/lib/crtbegin_so.o (__aeabi_unwind_cpp_pr0)
@@ -35,15 +35,15 @@ Discarded input sections
                 0x00000000        0x0 release\s3eGyroscope_register.os
  .note.GNU-stack
                 0x00000000        0x0 release\s3eGyroscope_register.os
- .text          0x00000000        0x0 C:\Marmalade\6.2\s3e\edk\lib\android\libedk.a(edk_helpers.o)
- .data          0x00000000        0x0 C:\Marmalade\6.2\s3e\edk\lib\android\libedk.a(edk_helpers.o)
- .bss           0x00000000        0x0 C:\Marmalade\6.2\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+ .text          0x00000000        0x0 C:\marmalade\6.2\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+ .data          0x00000000        0x0 C:\marmalade\6.2\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+ .bss           0x00000000        0x0 C:\marmalade\6.2\s3e\edk\lib\android\libedk.a(edk_helpers.o)
  .text.s3eEdkThreadRunOnOSAsync
-                0x00000000        0x0 C:\Marmalade\6.2\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+                0x00000000        0x0 C:\marmalade\6.2\s3e\edk\lib\android\libedk.a(edk_helpers.o)
  .text.s3eEdkErrorSetString
-                0x00000000        0x0 C:\Marmalade\6.2\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+                0x00000000        0x0 C:\marmalade\6.2\s3e\edk\lib\android\libedk.a(edk_helpers.o)
  .note.GNU-stack
-                0x00000000        0x0 C:\Marmalade\6.2\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+                0x00000000        0x0 C:\marmalade\6.2\s3e\edk\lib\android\libedk.a(edk_helpers.o)
  .data          0x00000000        0x0 c:/android-ndk-r8b/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(unwind-arm.o)
  .bss           0x00000000        0x0 c:/android-ndk-r8b/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(unwind-arm.o)
  .note.GNU-stack
@@ -74,8 +74,8 @@ LOAD C:/android-ndk-r8b/platforms/android-9/arch-arm/usr/lib/crtbegin_so.o
 LOAD release\s3eGyroscope_platform.os
 LOAD release\s3eGyroscope.os
 LOAD release\s3eGyroscope_register.os
-LOAD C:\Marmalade\6.2\s3e\edk\lib\android\libedk.a
-LOAD C:\Marmalade\6.2\s3e\edk\lib\android/libplaceholderplaceholderplaceholderplaceholderplaceholder.so
+LOAD C:\marmalade\6.2\s3e\edk\lib\android\libedk.a
+LOAD C:\marmalade\6.2\s3e\edk\lib\android/libplaceholderplaceholderplaceholderplaceholderplaceholder.so
 LOAD C:\android-ndk-r8b\platforms\android-9\arch-arm\usr\lib/liblog.so
 LOAD C:\android-ndk-r8b\sources\cxx-stl\gnu-libstdc++\4.4.3\libs\armeabi\libgnustl_static.a
 LOAD c:/android-ndk-r8b/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a
@@ -224,7 +224,7 @@ LOAD C:/android-ndk-r8b/platforms/android-9/arch-arm/usr/lib/crtend_so.o
                 0x000013dc      0x104 release\s3eGyroscope_register.os
                 0x000013dc                RegisterExt
  .text.s3eEdkThreadRunOnOS
-                0x000014e0       0x30 C:\Marmalade\6.2\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+                0x000014e0       0x30 C:\marmalade\6.2\s3e\edk\lib\android\libedk.a(edk_helpers.o)
                 0x000014e0                s3eEdkThreadRunOnOS
  .text          0x00001510      0xec4 c:/android-ndk-r8b/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(unwind-arm.o)
                 0x00001f38                __gnu_Unwind_RaiseException
@@ -437,7 +437,7 @@ LOAD C:/android-ndk-r8b/platforms/android-9/arch-arm/usr/lib/crtend_so.o
  .comment       0x00000000       0x12 release\s3eGyroscope_platform.os
  .comment       0x00000012       0x12 release\s3eGyroscope.os
  .comment       0x00000024       0x12 release\s3eGyroscope_register.os
- .comment       0x00000036       0x12 C:\Marmalade\6.2\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+ .comment       0x00000036       0x12 C:\marmalade\6.2\s3e\edk\lib\android\libedk.a(edk_helpers.o)
  .comment       0x00000048       0x12 c:/android-ndk-r8b/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(unwind-arm.o)
  .comment       0x0000005a       0x12 c:/android-ndk-r8b/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(pr-support.o)
 
@@ -537,7 +537,7 @@ LOAD C:/android-ndk-r8b/platforms/android-9/arch-arm/usr/lib/crtend_so.o
 /DISCARD/
  *(.note.GNU-stack)
  *(.gnu_debuglink)
-OUTPUT(C:\Marmalade\6.2\extensions\s3eGyroscope\lib\android\libs3eGyroscope.so elf32-littlearm)
+OUTPUT(C:\Github\s3eGyroscope\lib\android\libs3eGyroscope.so elf32-littlearm)
 
 .ARM.attributes
                 0x00000000       0x31
@@ -550,7 +550,7 @@ OUTPUT(C:\Marmalade\6.2\extensions\s3eGyroscope\lib\android\libs3eGyroscope.so e
  .ARM.attributes
                 0x00000085       0x2b release\s3eGyroscope_register.os
  .ARM.attributes
-                0x000000b0       0x2b C:\Marmalade\6.2\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+                0x000000b0       0x2b C:\marmalade\6.2\s3e\edk\lib\android\libedk.a(edk_helpers.o)
  .ARM.attributes
                 0x000000db       0x29 c:/android-ndk-r8b/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(unwind-arm.o)
  .ARM.attributes

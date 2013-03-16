@@ -1,11 +1,11 @@
 Archive member included because of file (symbol)
 
-C:\Marmalade\6.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+C:\marmalade\6.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
                               debug\s3eGyroscope_platform.os (IwDebugTraceSetTraceChannel)
-C:\Marmalade\6.2\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+C:\marmalade\6.2\s3e\edk\lib\android\libedk.a(edk_helpers.o)
                               debug\s3eGyroscope_platform.os (s3eEdkThreadRunOnOS)
 c:/android-ndk-r8b/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_aeabi_ldivmod.o)
-                              C:\Marmalade\6.2\s3e\edk\lib\android\libedk.a(IwDebug.o) (__aeabi_ldivmod)
+                              C:\marmalade\6.2\s3e\edk\lib\android\libedk.a(IwDebug.o) (__aeabi_ldivmod)
 c:/android-ndk-r8b/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(bpabi.o)
                               c:/android-ndk-r8b/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_aeabi_ldivmod.o) (__gnu_ldivmod_helper)
 c:/android-ndk-r8b/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(unwind-arm.o)
@@ -67,45 +67,45 @@ Discarded input sections
  .bss           0x00000000        0x0 debug\s3eGyroscope_register.os
  .note.GNU-stack
                 0x00000000        0x0 debug\s3eGyroscope_register.os
- .text          0x00000000        0x0 C:\Marmalade\6.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
- .data          0x00000000        0x0 C:\Marmalade\6.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .text          0x00000000        0x0 C:\marmalade\6.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .data          0x00000000        0x0 C:\marmalade\6.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
  .text.IwAssertRegisterTextCallback
-                0x00000000        0x0 C:\Marmalade\6.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+                0x00000000        0x0 C:\marmalade\6.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
  .text.IwAssertRegisterCallback
-                0x00000000        0x0 C:\Marmalade\6.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+                0x00000000        0x0 C:\marmalade\6.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
  .text.IwDebugErrorRegisterCallback
-                0x00000000        0x0 C:\Marmalade\6.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+                0x00000000        0x0 C:\marmalade\6.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
  .text.IwDebugAssertSetUID
-                0x00000000        0x0 C:\Marmalade\6.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+                0x00000000        0x0 C:\marmalade\6.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
  .text.IwDebugClearConfigCache
-                0x00000000        0x0 C:\Marmalade\6.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+                0x00000000        0x0 C:\marmalade\6.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
  .text.IwDebugErrorShow
-                0x00000000        0x0 C:\Marmalade\6.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+                0x00000000        0x0 C:\marmalade\6.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
  .text.IwDebugTraceLineVPrintf
-                0x00000000        0x0 C:\Marmalade\6.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+                0x00000000        0x0 C:\marmalade\6.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
  .text.IwDebugAssertIsChannelOn
-                0x00000000        0x0 C:\Marmalade\6.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+                0x00000000        0x0 C:\marmalade\6.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
  .text.IwDebugTraceDisable
-                0x00000000        0x0 C:\Marmalade\6.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+                0x00000000        0x0 C:\marmalade\6.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
  .text.IwDebugAssertSetMessage
-                0x00000000        0x0 C:\Marmalade\6.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+                0x00000000        0x0 C:\marmalade\6.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
  .text.IwDebugAssertSetSolution
-                0x00000000        0x0 C:\Marmalade\6.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+                0x00000000        0x0 C:\marmalade\6.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
  .text.IwDebugAssertShow
-                0x00000000        0x0 C:\Marmalade\6.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+                0x00000000        0x0 C:\marmalade\6.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
  .text.IwDebugTraceChannelSwitch
-                0x00000000        0x0 C:\Marmalade\6.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+                0x00000000        0x0 C:\marmalade\6.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
  .note.GNU-stack
-                0x00000000        0x0 C:\Marmalade\6.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
- .text          0x00000000        0x0 C:\Marmalade\6.2\s3e\edk\lib\android\libedk.a(edk_helpers.o)
- .data          0x00000000        0x0 C:\Marmalade\6.2\s3e\edk\lib\android\libedk.a(edk_helpers.o)
- .bss           0x00000000        0x0 C:\Marmalade\6.2\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+                0x00000000        0x0 C:\marmalade\6.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .text          0x00000000        0x0 C:\marmalade\6.2\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+ .data          0x00000000        0x0 C:\marmalade\6.2\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+ .bss           0x00000000        0x0 C:\marmalade\6.2\s3e\edk\lib\android\libedk.a(edk_helpers.o)
  .text.s3eEdkThreadRunOnOSAsync
-                0x00000000        0x0 C:\Marmalade\6.2\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+                0x00000000        0x0 C:\marmalade\6.2\s3e\edk\lib\android\libedk.a(edk_helpers.o)
  .text.s3eEdkErrorSetString
-                0x00000000        0x0 C:\Marmalade\6.2\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+                0x00000000        0x0 C:\marmalade\6.2\s3e\edk\lib\android\libedk.a(edk_helpers.o)
  .note.GNU-stack
-                0x00000000        0x0 C:\Marmalade\6.2\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+                0x00000000        0x0 C:\marmalade\6.2\s3e\edk\lib\android\libedk.a(edk_helpers.o)
  .data          0x00000000        0x0 c:/android-ndk-r8b/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_aeabi_ldivmod.o)
  .bss           0x00000000        0x0 c:/android-ndk-r8b/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_aeabi_ldivmod.o)
  .note.GNU-stack
@@ -163,8 +163,8 @@ LOAD C:/android-ndk-r8b/platforms/android-9/arch-arm/usr/lib/crtbegin_so.o
 LOAD debug\s3eGyroscope_platform.os
 LOAD debug\s3eGyroscope.os
 LOAD debug\s3eGyroscope_register.os
-LOAD C:\Marmalade\6.2\s3e\edk\lib\android\libedk.a
-LOAD C:\Marmalade\6.2\s3e\edk\lib\android/libplaceholderplaceholderplaceholderplaceholderplaceholder.so
+LOAD C:\marmalade\6.2\s3e\edk\lib\android\libedk.a
+LOAD C:\marmalade\6.2\s3e\edk\lib\android/libplaceholderplaceholderplaceholderplaceholderplaceholder.so
 LOAD C:\android-ndk-r8b\platforms\android-9\arch-arm\usr\lib/liblog.so
 LOAD C:\android-ndk-r8b\sources\cxx-stl\gnu-libstdc++\4.4.3\libs\armeabi\libgnustl_static.a
 LOAD c:/android-ndk-r8b/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a
@@ -352,18 +352,18 @@ LOAD C:/android-ndk-r8b/platforms/android-9/arch-arm/usr/lib/crtend_so.o
                 0x00001f74        0xc debug\s3eGyroscope_register.os
                 0x00001f74                RegisterExt
  .text.IwDebugTraceSetTraceChannel
-                0x00001f80       0x1c C:\Marmalade\6.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+                0x00001f80       0x1c C:\marmalade\6.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
                 0x00001f80                IwDebugTraceSetTraceChannel
  .text._GLOBAL__I_D__sdkbuild_sdk_main_modules_iwcore_source_IwDebug.cpp
-                0x00001f9c       0xa4 C:\Marmalade\6.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+                0x00001f9c       0xa4 C:\marmalade\6.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
  .text.IwDebugTraceIsChannelOn
-                0x00002040      0x2b8 C:\Marmalade\6.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+                0x00002040      0x2b8 C:\marmalade\6.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
                 0x00002040                IwDebugTraceIsChannelOn
  .text.IwDebugTraceLinePrintf
-                0x000022f8      0x10c C:\Marmalade\6.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+                0x000022f8      0x10c C:\marmalade\6.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
                 0x000022f8                IwDebugTraceLinePrintf
  .text.s3eEdkThreadRunOnOS
-                0x00002404       0x30 C:\Marmalade\6.2\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+                0x00002404       0x30 C:\marmalade\6.2\s3e\edk\lib\android\libedk.a(edk_helpers.o)
                 0x00002404                s3eEdkThreadRunOnOS
  .text          0x00002434       0x1c c:/android-ndk-r8b/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_aeabi_ldivmod.o)
                 0x00002434                __aeabi_ldivmod
@@ -446,7 +446,7 @@ LOAD C:/android-ndk-r8b/platforms/android-9/arch-arm/usr/lib/crtend_so.o
  .rodata        0x00004324      0x11c debug\s3eGyroscope_platform.os
  .rodata        0x00004440       0x10 debug\s3eGyroscope_register.os
  .rodata.str1.4
-                0x00004450      0x11c C:\Marmalade\6.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+                0x00004450      0x11c C:\marmalade\6.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
                                 0x120 (size before relaxing)
 
 .rodata1
@@ -499,7 +499,7 @@ LOAD C:/android-ndk-r8b/platforms/android-9/arch-arm/usr/lib/crtend_so.o
  *(.init_array)
  .init_array    0x00005e60        0x4 C:/android-ndk-r8b/platforms/android-9/arch-arm/usr/lib/crtbegin_so.o
                 0x00005e60                __INIT_ARRAY__
- .init_array    0x00005e64        0x4 C:\Marmalade\6.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .init_array    0x00005e64        0x4 C:\marmalade\6.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
  .init_array    0x00005e68        0x4 C:/android-ndk-r8b/platforms/android-9/arch-arm/usr/lib/crtend_so.o
 
 .fini_array     0x00005e6c        0xc
@@ -562,7 +562,7 @@ LOAD C:/android-ndk-r8b/platforms/android-9/arch-arm/usr/lib/crtend_so.o
  .dynbss        0x00000000        0x0 C:/android-ndk-r8b/platforms/android-9/arch-arm/usr/lib/crtbegin_so.o
  *(.bss .bss.* .gnu.linkonce.b.*)
  .bss           0x00006010       0x10 debug\s3eGyroscope_platform.os
- .bss           0x00006020     0x1a28 C:\Marmalade\6.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .bss           0x00006020     0x1a28 C:\marmalade\6.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
                 0x00006020                g_DebugGlobals
  *(COMMON)
                 0x00007a48                . = ALIGN ((. != 0x0)?0x4:0x1)
@@ -598,8 +598,8 @@ LOAD C:/android-ndk-r8b/platforms/android-9/arch-arm/usr/lib/crtend_so.o
  .comment       0x00000000       0x12 debug\s3eGyroscope_platform.os
  .comment       0x00000012       0x12 debug\s3eGyroscope.os
  .comment       0x00000024       0x12 debug\s3eGyroscope_register.os
- .comment       0x00000036       0x12 C:\Marmalade\6.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
- .comment       0x00000048       0x12 C:\Marmalade\6.2\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+ .comment       0x00000036       0x12 C:\marmalade\6.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .comment       0x00000048       0x12 C:\marmalade\6.2\s3e\edk\lib\android\libedk.a(edk_helpers.o)
  .comment       0x0000005a       0x12 c:/android-ndk-r8b/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(bpabi.o)
  .comment       0x0000006c       0x12 c:/android-ndk-r8b/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(unwind-arm.o)
  .comment       0x0000007e       0x12 c:/android-ndk-r8b/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(pr-support.o)
@@ -695,20 +695,20 @@ LOAD C:/android-ndk-r8b/platforms/android-9/arch-arm/usr/lib/crtend_so.o
  .debug_abbrev  0x00000dc6       0x14 c:/android-ndk-r8b/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_udivsi3.o)
  .debug_abbrev  0x00000dda       0x14 c:/android-ndk-r8b/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_dvmd_lnx.o)
 
-.debug_line     0x00000000     0x1217
+.debug_line     0x00000000     0x1219
  *(.debug_line)
- .debug_line    0x00000000      0x325 debug\s3eGyroscope_platform.os
- .debug_line    0x00000325       0xed debug\s3eGyroscope.os
- .debug_line    0x00000412       0xf5 debug\s3eGyroscope_register.os
- .debug_line    0x00000507       0xa5 c:/android-ndk-r8b/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_aeabi_ldivmod.o)
- .debug_line    0x000005ac       0xab c:/android-ndk-r8b/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(bpabi.o)
- .debug_line    0x00000657      0x4d2 c:/android-ndk-r8b/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(unwind-arm.o)
- .debug_line    0x00000b29       0xf1 c:/android-ndk-r8b/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(libunwind.o)
- .debug_line    0x00000c1a      0x1d2 c:/android-ndk-r8b/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(pr-support.o)
- .debug_line    0x00000dec      0x162 c:/android-ndk-r8b/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_divdi3.o)
- .debug_line    0x00000f4e      0x152 c:/android-ndk-r8b/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_udivdi3.o)
- .debug_line    0x000010a0       0xcc c:/android-ndk-r8b/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_udivsi3.o)
- .debug_line    0x0000116c       0xab c:/android-ndk-r8b/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_dvmd_lnx.o)
+ .debug_line    0x00000000      0x32f debug\s3eGyroscope_platform.os
+ .debug_line    0x0000032f       0xe9 debug\s3eGyroscope.os
+ .debug_line    0x00000418       0xf1 debug\s3eGyroscope_register.os
+ .debug_line    0x00000509       0xa5 c:/android-ndk-r8b/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_aeabi_ldivmod.o)
+ .debug_line    0x000005ae       0xab c:/android-ndk-r8b/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(bpabi.o)
+ .debug_line    0x00000659      0x4d2 c:/android-ndk-r8b/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(unwind-arm.o)
+ .debug_line    0x00000b2b       0xf1 c:/android-ndk-r8b/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(libunwind.o)
+ .debug_line    0x00000c1c      0x1d2 c:/android-ndk-r8b/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(pr-support.o)
+ .debug_line    0x00000dee      0x162 c:/android-ndk-r8b/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_divdi3.o)
+ .debug_line    0x00000f50      0x152 c:/android-ndk-r8b/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_udivdi3.o)
+ .debug_line    0x000010a2       0xcc c:/android-ndk-r8b/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_udivsi3.o)
+ .debug_line    0x0000116e       0xab c:/android-ndk-r8b/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_dvmd_lnx.o)
 
 .debug_frame    0x00000000      0x7e0
  *(.debug_frame)
@@ -722,23 +722,23 @@ LOAD C:/android-ndk-r8b/platforms/android-9/arch-arm/usr/lib/crtend_so.o
  .debug_frame   0x00000770       0x48 c:/android-ndk-r8b/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_udivdi3.o)
  .debug_frame   0x000007b8       0x28 c:/android-ndk-r8b/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_udivsi3.o)
 
-.debug_str      0x00000000     0x5714
+.debug_str      0x00000000     0x56ca
  *(.debug_str)
- .debug_str     0x00000000     0x4a1c debug\s3eGyroscope_platform.os
-                               0x4bae (size before relaxing)
- .debug_str     0x00004a1c       0xa1 debug\s3eGyroscope.os
-                                0x2e1 (size before relaxing)
- .debug_str     0x00004abd       0xd9 debug\s3eGyroscope_register.os
-                                0x254 (size before relaxing)
- .debug_str     0x00004b96       0xb9 c:/android-ndk-r8b/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(bpabi.o)
+ .debug_str     0x00000000     0x49f6 debug\s3eGyroscope_platform.os
+                               0x4b88 (size before relaxing)
+ .debug_str     0x000049f6       0x8f debug\s3eGyroscope.os
+                                0x2bb (size before relaxing)
+ .debug_str     0x00004a85       0xc7 debug\s3eGyroscope_register.os
+                                0x22e (size before relaxing)
+ .debug_str     0x00004b4c       0xb9 c:/android-ndk-r8b/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(bpabi.o)
                                  0xde (size before relaxing)
- .debug_str     0x00004c4f      0x819 c:/android-ndk-r8b/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(unwind-arm.o)
+ .debug_str     0x00004c05      0x819 c:/android-ndk-r8b/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(unwind-arm.o)
                                 0x8f4 (size before relaxing)
- .debug_str     0x00005468      0x13d c:/android-ndk-r8b/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(pr-support.o)
+ .debug_str     0x0000541e      0x13d c:/android-ndk-r8b/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(pr-support.o)
                                 0x45a (size before relaxing)
- .debug_str     0x000055a5      0x165 c:/android-ndk-r8b/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_divdi3.o)
+ .debug_str     0x0000555b      0x165 c:/android-ndk-r8b/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_divdi3.o)
                                 0x215 (size before relaxing)
- .debug_str     0x0000570a        0xa c:/android-ndk-r8b/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_udivdi3.o)
+ .debug_str     0x000056c0        0xa c:/android-ndk-r8b/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_udivdi3.o)
                                 0x216 (size before relaxing)
 
 .debug_loc      0x00000000     0x25e6
@@ -789,7 +789,7 @@ LOAD C:/android-ndk-r8b/platforms/android-9/arch-arm/usr/lib/crtend_so.o
 /DISCARD/
  *(.note.GNU-stack)
  *(.gnu_debuglink)
-OUTPUT(C:\Marmalade\6.2\extensions\s3eGyroscope\lib\android\libs3eGyroscope_d.so elf32-littlearm)
+OUTPUT(C:\Github\s3eGyroscope\lib\android\libs3eGyroscope_d.so elf32-littlearm)
 
 .ARM.attributes
                 0x00000000       0x31
@@ -802,9 +802,9 @@ OUTPUT(C:\Marmalade\6.2\extensions\s3eGyroscope\lib\android\libs3eGyroscope_d.so
  .ARM.attributes
                 0x00000085       0x2b debug\s3eGyroscope_register.os
  .ARM.attributes
-                0x000000b0       0x2b C:\Marmalade\6.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+                0x000000b0       0x2b C:\marmalade\6.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
  .ARM.attributes
-                0x000000db       0x2b C:\Marmalade\6.2\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+                0x000000db       0x2b C:\marmalade\6.2\s3e\edk\lib\android\libedk.a(edk_helpers.o)
  .ARM.attributes
                 0x00000106       0x19 c:/android-ndk-r8b/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_aeabi_ldivmod.o)
  .ARM.attributes
