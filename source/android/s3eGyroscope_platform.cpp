@@ -6,6 +6,15 @@
  * NOTE: This file was originally written by the extension builder, but will not
  * be overwritten (unless --force is specified) and is intended to be modified.
  */
+ 
+ /*
+ * Copyright (C) 2013 Attila Horvath
+ *
+ * This programme is free software; you may redistribute and/or modify
+ * it under the terms of the Apache Software Licence v2.0
+ */
+ 
+ 
 #include "s3eGyroscope_internal.h"
 
 #include "s3eEdk.h"

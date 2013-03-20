@@ -9,6 +9,15 @@ These functions are called via JNI from native code.
  * NOTE: This file was originally written by the extension builder, but will not
  * be overwritten (unless --force is specified) and is intended to be modified.
  */
+ 
+ /*
+ * Copyright (C) 2013 Attila Horvath
+ *
+ * This programme is free software; you may redistribute and/or modify
+ * it under the terms of the Apache Software Licence v2.0
+ */
+ 
+ 
 import com.ideaworks3d.marmalade.LoaderAPI;
 import com.ideaworks3d.marmalade.LoaderActivity;
 
